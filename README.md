@@ -1,5 +1,5 @@
 {
-    "version": "2.0",
-    "url": "https://yzsydp.lanzoue.com/iZekJ3s5ucnc",
-    "note": "V2.0 快捷键优化版"
+    "version": "2.01",
+    "url": "https://yzxydp.lanzoue.com/ifzAq3s71lgh",
+    "note": "V2.01 快捷键优化版"
 }
